@@ -1,0 +1,10 @@
+{
+  "main": "services/jwt-service.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "fastify": "^2.8.0",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
